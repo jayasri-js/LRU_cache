@@ -11,6 +11,6 @@
 * Safe memory cleanup in destructor.
 
 #Key Learnings.
-* Mastered raw pointer usage and linked list manipulation.
+* learnt raw pointer usage and linked list manipulation.
 * Practiced memory allocation and deallocation.
 * Learned how to integrate hash maps with linked lists for optimal performance.
